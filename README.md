@@ -1,7 +1,7 @@
 # Exported Playwright code from Smart Monkey
 
 This repository demos "Export as Playwright code" of Smart Monkey.
-## Recorded Video
+## Demo by Video
 [![Watch the video](https://img.youtube.com/vi/TFH8OhdHr-k/maxresdefault.jpg)](https://youtu.be/TFH8OhdHr-k)
 
 ## Result
@@ -87,3 +87,6 @@ test(`Form elements`, async ({ browser, page }) => {
 As you see, the code is very clear and very easy to read. It is fully commented! Impressed :)
 
 Click [here](https://github.com/smartmonkey-app/export-playwright-sample/tree/main/src) to see the full exported code!
+
+## Download
+If you would like to download Smart Monkey, please [click here](https://release.smartmonkey.app/download) or visit [https://www.smartmonkey.app](https://www.smartmonkey.app) for more information!
