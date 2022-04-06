@@ -2,7 +2,7 @@
 
 This repository demos "Export as Playwright code" of Smart Monkey.
 ## Recorded Video
-[![Watch the video](https://img.youtube.com/vi/TFH8OhdHr-k/default.jpg)](https://youtu.be/TFH8OhdHr-k)
+[![Watch the video](https://img.youtube.com/vi/TFH8OhdHr-k/maxresdefault.jpg)](https://youtu.be/TFH8OhdHr-k)
 
 ## Result
 
