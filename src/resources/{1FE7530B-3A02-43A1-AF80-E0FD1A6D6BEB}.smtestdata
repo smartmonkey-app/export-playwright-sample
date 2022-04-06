@@ -1,0 +1,32 @@
+{
+	"variables": [
+		"testEmail",
+		"testEmailResult"
+	],
+	"data": [
+		{
+			"testEmail": "simple@example.com",
+			"testEmailResult": "simple@example.com is valid"
+		},
+		{
+			"testEmail": "very.common@example.com",
+			"testEmailResult": "very.common@example.com is valid"
+		},
+		{
+			"testEmail": "disposable.style.email.with+symbol@example.com",
+			"testEmailResult": "disposable.style.email.with+symbol@example.com is valid"
+		},
+		{
+			"testEmail": "Abc.example.com",
+			"testEmailResult": "Abc.example.com is invalid"
+		},
+		{
+			"testEmail": "A@b@c@example.com",
+			"testEmailResult": "A@b@c@example.com is invalid"
+		},
+		{
+			"testEmail": "a\"b(c)d,e:f;g<h>i[j\\k]l@example.com",
+			"testEmailResult": "a\"b(c)d,e:f;gi[j\\k]l@example.com is invalid"
+		}
+	]
+}
